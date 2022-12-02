@@ -1,5 +1,5 @@
 # Project name.
-DELANI STUDIO
+DELANI NODE APP
 
 ### This project is about Delani Studio, Version Date: 1st Dec 2022
 #### Author
