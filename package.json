@@ -1,0 +1,23 @@
+{
+  "name": "delani-node-app",
+  "version": "1.0.0",
+  "description": "DELANI NODE APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "nodemon app.js",
+    "start": "git push origin master && git push heroku master && heroku open"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngangamary078/delani-node-app.git"
+  },
+  "keywords": [],
+  "author": "Mary Ng'ang'a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngangamary078/delani-node-app/issues"
+  },
+  "homepage": "https://github.com/ngangamary078/delani-node-app#readme"
+}
